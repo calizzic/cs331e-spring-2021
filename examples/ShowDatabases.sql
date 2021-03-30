@@ -6,7 +6,7 @@
 
 -- Running the PostgreSQL interactive terminal program
 -- $ psql -U postgres -h localhost
--- Password for user postgres:
+-- Password for user postgres :
 
 -- if the password is valid, you receive the following message.
 -- psql (10.16)
@@ -15,6 +15,7 @@
 --         page "Notes for Windows users" for details.
 -- Type "help" for help.
 -- postgres=#
+--
 
 -- list available databases
 \list
